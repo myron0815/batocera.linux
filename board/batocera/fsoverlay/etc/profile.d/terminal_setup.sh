@@ -19,4 +19,5 @@ echo
 
 # ---- ALIAS VALUES ----
 alias mc='mc -x'
+alias ll='ls -l'
 alias batocera-check-updates='batocera-es-swissknife --update'
